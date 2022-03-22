@@ -46,7 +46,7 @@
     <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" >
 </p>
     
-<h2 align="center"> 🙋 Want to ge in contact? </h2>
+<h2 align="center"> 🙋 Want to get in contact? </h2>
 
 <div align="center"> 
     <a href="https://www.linkedin.com/in/cosimo-chetta/">
